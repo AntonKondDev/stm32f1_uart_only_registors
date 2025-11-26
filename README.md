@@ -5,9 +5,9 @@
 - Отправку строки `"button pressed"` при нажатии кнопки (PA1);
 - ПО для моделирования, анализа и электронного проектирования, в частности для систем на базе микроконтроллеров.
 
-[Видеодемонстрация работы](https://youtu.be/G3csShAZcrc) программы в Proteus 8 Pro.
-[Подключение ST-LINK V2](./docs/STLinkV2.jpg)
-[Подключение USB-UART CH340G](./docs/usbUART.jpg)
+[Видеодемонстрация работы](https://youtu.be/G3csShAZcrc) программы в Proteus 8 Pro.  
+[Подключение ST-LINK V2](./docs/STLinkV2.jpg)  
+[Подключение USB-UART CH340G](./docs/usbUART.jpg)  
 
 ## Используемые контакты ввода\вывода (GPIO)
 
